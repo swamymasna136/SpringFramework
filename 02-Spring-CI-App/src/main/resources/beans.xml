@@ -6,7 +6,7 @@
 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
 
 	<bean name="product" class="com.codebyswamy.Product">
-		<constructor-arg value="544" />
+		<constructor-arg value="5444" />
 		<constructor-arg value="LAPTOP" />
 		<constructor-arg value="56000.00" />
 	</bean>
