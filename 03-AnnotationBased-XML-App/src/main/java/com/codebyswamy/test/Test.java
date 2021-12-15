@@ -13,7 +13,7 @@ public class Test {
 		Company company = context.getBean(Company.class);
 		company.setCmpId(5455);
 		company.setCmpName("SUZUKI");
-		company.setCmpProf(5600.00);
+		company.setCmpProf(5500.00);
 		System.out.println(company);
 	}
 }
