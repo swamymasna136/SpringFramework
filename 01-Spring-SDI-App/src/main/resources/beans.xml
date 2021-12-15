@@ -7,7 +7,7 @@
 
 	<bean name="employee" class="com.codebyswamy.beans.Employee">
 		<property name="empId" value="784" />
-		<property name="empName" value="SWAMY" />
+		<property name="empName" value="SWAMY.M" />
 		<property name="empSal" value="5500.00" />
 	</bean>
 
