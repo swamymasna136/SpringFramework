@@ -11,6 +11,6 @@ public class BeanOne {
 	private BeanThree beanThree;
 	
 	public BeanOne() {
-		System.out.println("BeanOne Object is Created with Its Constructor..!");
+		System.out.println("BeanOne Object is Created with Its Constructor...!");
 	}
 }
