@@ -14,6 +14,7 @@ public class Test {
 		ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 		Product product = context.getBean(Product.class);
 		System.out.println(product);
+		System.out.println(product);
 	}
 }
 
