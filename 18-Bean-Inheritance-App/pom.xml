@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.codebyswamy</groupId>
-	<artifactId>01-Spring-SDI-App</artifactId>
+	<artifactId>18-Bean-Inheritance-App</artifactId>
 	<version>1.0</version>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -15,6 +15,7 @@
 			<artifactId>spring-context</artifactId>
 			<version>5.3.13</version>
 		</dependency>
+
 	</dependencies>
 
 </project>
